@@ -4,7 +4,6 @@ It is deployed at https://nextjs-blog-teal-ten-89.vercel.app/
 
   ## Screenshot
   
-  ![screenshot](./assets/images/screenshot.png)
+  ![screenshot](./assets/images/Screenshot.png)
 
   Nothing more to see here.
-  
